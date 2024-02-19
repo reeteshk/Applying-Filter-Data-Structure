@@ -1,2 +1,2 @@
 # Applying-Filter-Data-Structure
-Generally on various websites how excatly on backend the filter functionality works
+Generally on various websites how exactly on backend the filter functionality works
